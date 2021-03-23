@@ -1,0 +1,3 @@
+With 1000 numbers time for simple sort method is 0.0000000000 and the amount of operations is 993
+With 1000 numbers time for bubble sort method is 0.0000000000 and the amount of operations is 247313
+With 1000 numbers time for comb sort method is 0.0000000000 and the amount of operations is 4218

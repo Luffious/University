@@ -1,0 +1,3 @@
+86 -82 29 -9 -79 
+Max = 86, min = -9, pos = 115, count = 2.
+b = max*min*pos/count = -44505
