@@ -257,5 +257,6 @@ int main() {
 			deleteTree(&tree);
 		}
 	}
+	data.close();
 	return 0;
 }
